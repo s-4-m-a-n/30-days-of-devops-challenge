@@ -1,1 +1,1 @@
-# 30-days-of-devops-challange
+# 30-days-of-devops-challenge

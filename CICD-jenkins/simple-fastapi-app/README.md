@@ -17,10 +17,10 @@ docker network create app-network
 ```
 - run redis in the app-network
 ```
-docker run -d --name redis:latest --network app-network redis
+docker run -d --name redis --network app-network redis:latest
 ```
 - run fastapi-app
 ```
-docker run --port 8000:8000 --name fastapi-app --network app-network -e REDIS_HOST redis -e REDIS_PORT 6379 fastapi-app
+docker run -p 8000:8000 --name fastapi-app --network app-network -e REDIS_HOST=redis fastapi-app
 ```
 
