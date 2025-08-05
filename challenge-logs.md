@@ -40,3 +40,13 @@
 ## 🎯what I will be doing tomorrow ?
 >- Write documentation covering both yesterday's and today's topics.
 >- gonna cover the practical implementation of VPC and its components in details, from setting up VPC and other stuffs to understanding its purposes.
+
+# 🗓️ Day 4:
+## ✅what I learned today ?
+>- I have covered concepts like load balacer, auto scaling group, target group, bastion host or jump server.
+>- Went through a tutorial on how to setup production level VPC with two availability zones, public and private subnets, load balancer and auto scaler.
+>- did not implement it though because of the internet issue, will do that tomorrow and also try to write notes if got any spare time.
+
+## 🎯what I will be doing tomorrow ?
+>- setup production VPC with loadbalancer and auto scaler in aws
+>- write a note and documentations
