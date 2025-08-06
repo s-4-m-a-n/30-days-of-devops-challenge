@@ -50,3 +50,13 @@
 ## 🎯what I will be doing tomorrow ?
 >- setup production VPC with loadbalancer and auto scaler in aws
 >- write a note and documentations
+
+
+# 🗓️ Day 5:
+## ✅what I learned today ?
+>- I coverted different architecture of VPC in aws (no practical implementation)
+>- prepared a proper notes of network introduction
+
+## 🎯what I will be doing tomorrow ?
+>- Still need to prepare notes on network security, VPC and its components, so will work on that.
+>- If I got extra time then will implement VPC architectures in aws.
