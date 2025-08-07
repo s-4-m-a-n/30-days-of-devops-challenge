@@ -34,29 +34,32 @@
 
 # 🗓️ Day 3:
 ## ✅what I learned today ?
->- Got occupied with office work and writing a Medium article, so couldn’t cover many new topics today.
+>- Got occupied with office work and writing a Medium article, so I couldn’t cover many new topics today.
 >- I have also covered theoretical part of VPC (virtual private Cloud) and its components like internet gateway, public subnet, private subnet, NACL (Network Access Control List), security group, route53, NAT.
 
 ## 🎯what I will be doing tomorrow ?
 >- Write documentation covering both yesterday's and today's topics.
->- gonna cover the practical implementation of VPC and its components in details, from setting up VPC and other stuffs to understanding its purposes.
+>- gonna cover the practical implementation of VPC and its components in detail, from setting up VPC and other configurations to understanding their purposes.
 
 # 🗓️ Day 4:
 ## ✅what I learned today ?
 >- I have covered concepts like load balacer, auto scaling group, target group, bastion host or jump server.
 >- Went through a tutorial on how to setup production level VPC with two availability zones, public and private subnets, load balancer and auto scaler.
->- did not implement it though because of the internet issue, will do that tomorrow and also try to write notes if got any spare time.
+>- Unfortunately I was unable to implement it because of the internet issue, will try to do that tomorrow and also try to write notes if I get any spare time.
 
 ## 🎯what I will be doing tomorrow ?
->- setup production VPC with loadbalancer and auto scaler in aws
->- write a note and documentations
+>- setup production level VPC with loadbalancer and auto scaler on aws
+>- write notes and documentations
 
 
 # 🗓️ Day 5:
 ## ✅what I learned today ?
->- I coverted different architecture of VPC in aws (no practical implementation)
->- prepared a proper notes of network introduction
+>- I covered different architectures of VPC on aws (no practical implementation)
+>- prepared proper notes for the network introduction chapter
 
 ## 🎯what I will be doing tomorrow ?
 >- Still need to prepare notes on network security, VPC and its components, so will work on that.
->- If I got extra time then will implement VPC architectures in aws.
+>- If I get some extra time, I will implement VPC architectures on aws.
+
+# 🗓️ Day 6:
+Skipped for today
