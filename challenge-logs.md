@@ -63,3 +63,11 @@
 
 # 🗓️ Day 6:
 Skipped for today
+
+# 🗓️ Day 7:
+## ✅what I learned today ?
+>- prepare notes for missed out topics 
+>- unable to implement due to access restriction, so have to wait for the access to create VPC
+
+## 🎯what I will be doing tomorrow ?
+>- will do the implementation

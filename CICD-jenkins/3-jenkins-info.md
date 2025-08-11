@@ -2,6 +2,6 @@
 
 # Jobs:
 - individual task is known as job in Jenkins
-![alt text](image-5.png)
+![alt text](medias/create-job.png)
 
 Let's create a new job:

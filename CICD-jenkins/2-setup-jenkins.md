@@ -52,7 +52,7 @@
 
 - `url`: `public_ip_address:8080`
 
-![alt text](image.png)
+![alt text](medias/access-jenkins.png)
 
 Initially I will ask for a default password, so let's get that from the server.
 ```
@@ -64,12 +64,12 @@ wrw42oonsoe303rworw3902
 ```
 4. Setup Jenkins
 
-![alt text](image-1.png)
+![alt text](medias/jenkins-installation-1.png)
 
 Here we are going to pick install suggested plugins
-![alt text](image-2.png)
+![alt text](medias/jenkins-installation-2.png)
 
-![alt text](image-3.png)
+![alt text](medias/jenkins-installation-3.png)
 
 
-![alt text](image-4.png)
+![alt text](medias/jenkins-installation-4.png)
